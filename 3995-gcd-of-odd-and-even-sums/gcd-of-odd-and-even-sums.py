@@ -1,3 +1,3 @@
-class Solution:
-    def gcdOfOddEvenSums(self, n: int) -> int:
+class Solution(object):
+    def gcdOfOddEvenSums(self, n):
         return n
